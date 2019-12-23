@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Ty Walters",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "ty.walters97@gmail.com",
+    "label": "Data Analyst",
+    "picture": "https://TW97.github.io/template/images/molly.png",
+    "email": "Ty.Walters97@gmail.com",
     "phone": "816-695-9881",
     "website": "https://TW97.github.io",
     "summary": "",
@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "ty-walters",
+        "username": "Ty-Walters",
         "url": "http://linkedin.com/in/ty-walters"
       },
       {
@@ -34,10 +34,8 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "machine learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -60,13 +58,6 @@
         "SQL",
         "SAS",
         "Tableau"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Git/GitHub"
       ]
     }
   ],

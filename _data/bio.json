@@ -2,10 +2,10 @@
   "basics": {
     "name": "Ty Walters",
     "label": "Data Analyst",
-    "picture": "https://TW97.github.io/images/molly.png",
+    "picture": "https://TyWalters.github.io/images/molly.png",
     "email": "Ty.Walters97@gmail.com",
     "phone": "816-695-9881",
-    "website": "https://TW97.github.io",
+    "website": "https://TyWalters.github.io",
     "summary": "",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "TW97",
-        "url": "http://github.com/TW97"
+        "username": "TyWalters",
+        "url": "http://github.com/TyWalters"
       },
       {
         "network": "linkedin",

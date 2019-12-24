@@ -74,10 +74,12 @@
       "website": "",
       "startDate": "2019-10-01",
       "endDate": "Present",
-      "summary": "Seasonal Intern (2019-20) for Phoenix Suns Business Intelligence Department",
+      "summary": "Seasonal intern with the business intelligence department for the 2019-20 season",
       "highlights": [
-        "",
-        ""
+        "Created automatic data pipeline from the new Phoenix Suns Mobile Wallet (via Braintree API) into our data warehouse",
+        "Created automatic data pipeline to Stubhub API using Python & SAS to evaluate the Suns resell market as well as ensure ticket holders were complying with their policies on reselling tickets",
+        "Used SQL to transform and manipulate data then create dashboards in Spotfire that were updated automatically",
+        "Built out predictive models for total attendance and merchandise budgeting to prep for the season"
       ]
     },
     {
@@ -85,10 +87,12 @@
       "position": "Junior Analyst",
       "website": "",
       "endDate": "2019-08-10",
-      "summary": "Internship with Chicago Fire Soccer Club Business Intelligence Department",
+      "summary": "Summer internship with the analytics department during the 2019 season",
       "highlights": [
-        "",
-        ""
+        "Created automated data pipeline of fan experience surveys into the club’s data warehouse as a new data source containing 500k+ responses using SurveyMonkey API and Python",
+        "Prospect identification in database with over 70k fans using SAS Enterprise Guide",
+        "Designed executive level reports and tables for potential jersey sponsors that met specific KPIs",
+        "Assisted corporate partnership team by developing reports for potential sponsors"
       ]
     },
     {
@@ -96,10 +100,10 @@
       "position": "Behavioral Analyst",
       "website": "",
       "endDate": "2018-09-01",
-      "summary": "Project commissioned by a Major English Premier League Club",
+      "summary": "Applied research project commissioned by a Major English Premier League Club",
       "highlights": [
-        "",
-        ""
+        "Coded in-game events and behaviors for over 2,000 videos",
+        "1 of only 5 people out of 20 coders to be promoted from part time to a full-time position"
       ]
     }
   ],

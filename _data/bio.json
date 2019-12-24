@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "Ty-Walters",
         "url": "http://linkedin.com/in/ty-walters"
-      },
-      {
-        "network": "twitter",
-        "username": "AnalyticsTy",
-        "url": "http://twitter.com/AnalyticsTy"
       }
     ]
   },
@@ -93,6 +88,18 @@
       "startDate": "2019-05-01",
       "endDate": "2019-08-01",
       "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Norwegian School of Sport Sciences",
+      "position": "Behavioral Analyst",
+      "website": "",
+      "startDate": "2018-03-01",
+      "endDate": "2018-09-01",
+      "summary": "Behavioral Analyst for a project commissioned by a Major English Premier League Club",
       "highlights": [
         "",
         ""

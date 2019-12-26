@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/combinelogo.JPG
+image: images/combinelogo.jpg
 projecturl: https://github.com/TyWalters/NFL-Rookie-Success
 title: NFL Rookie Success
 permalink: projects/nfl-rookie-success

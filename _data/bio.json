@@ -5,7 +5,7 @@
     "picture": "https://TyWalters.github.io/images/headshot.jpg",
     "email": "Ty.Walters97@gmail.com",
     "phone": "816-695-9881",
-    "summary": "",
+    "summary": "I graduated from Arizona State University in December of 2019 with a degree in Business Data Analytics. Currently, I am a Business Intelligence Seasonal Intern with the Phoenix Suns.",
     "location": {
       "address": "",
       "postalCode": "85281",
@@ -33,12 +33,32 @@
       ]
     },
     {
+      "name": "sports data",
+      "keywords": [
+      ]
+    },
+    {
       "name": "data mining",
       "keywords": [
       ]
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "statistics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "web scraping",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "data visualizations",
       "keywords": [
       ]
     }

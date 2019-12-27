@@ -73,6 +73,27 @@
         "SAS",
         "Tableau"
       ]
+    }, 
+    {
+      "name": "Data Management",
+      "level": "",
+      "keywords": [
+        "Web Scraping",
+        "API Requests (GET, PUT, POST)",
+        "Data Pipeline Automation",
+        "Database Design"
+      ]
+    },
+     {
+      "name": "Modeling",
+      "level": "",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Predictive",
+        "Statistical",
+        "Text Analysis"
+      ]
     }
   ],
   "education": [
@@ -85,6 +106,12 @@
       "gpa": "3.72",
       "courses": [
       ]
+    },
+    {
+      "institution": "WHU - Otto Beisheim School of Management",
+      "area": "Business Study Abroad Program",
+      "studyType": "B.S.",
+      "endDate": "2018-12-16",
     }
   ],
   "work": [
@@ -96,10 +123,10 @@
       "endDate": "Present",
       "summary": "Seasonal intern with the business intelligence department for the 2019-20 season",
       "highlights": [
-        "Created automatic data pipeline from the new Phoenix Suns Mobile Wallet (via Braintree API) into our data warehouse",
-        "Created automatic data pipeline to Stubhub API using Python & SAS to evaluate the Suns resell market as well as ensure ticket holders were complying with their policies on reselling tickets",
-        "Used SQL to transform and manipulate data then create dashboards in Spotfire that were updated automatically",
-        "Built out predictive models for total attendance and merchandise budgeting to prep for the season"
+        "Automated ETL process from the new Phoenix Suns Mobile Wallet (via Braintree API) into the data warehouse for reporting",
+        "Evaluate the Suns resell market and ensure ticket holders were complying with their policies on reselling tickets through Stubhub API",
+        "Applied SQL to transform and manipulate data then create dashboards in Spotfire",
+        "Optimized regression models for total attendance and merchandise budgeting to prep for the season"
       ]
     },
     {
@@ -109,10 +136,10 @@
       "endDate": "2019-08-10",
       "summary": "Summer internship with the analytics department during the 2019 season",
       "highlights": [
-        "Created automated data pipeline of fan experience surveys into the club’s data warehouse as a new data source containing 500k+ responses using SurveyMonkey API and Python",
+        "Automated process of retrieving post-match survey responses as a new data source containing 500k+ records through SurveyMonkey API",
         "Prospect identification in database with over 70k fans using SAS Enterprise Guide",
-        "Designed executive level reports and tables for potential jersey sponsors that met specific KPIs",
-        "Assisted corporate partnership team by developing reports for potential sponsors"
+        "Designed executive level reports on potential jersey sponsors that met predetermined criteria",
+        "Developed detailed research reports for corporate partnership team on potential sponsors"
       ]
     },
     {

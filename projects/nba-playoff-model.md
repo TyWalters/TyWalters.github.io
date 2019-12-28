@@ -9,7 +9,9 @@ labels:
   - Python
   - Scikit-learn
   - Machine Learning
-  - Prediction
+  - Predictions
+  - Probabilities
+  - Classification
   - Tableau
 summary: Probability each NBA team will make the playoffs built on data from 1998-2017 for the 2018 season.
 ---

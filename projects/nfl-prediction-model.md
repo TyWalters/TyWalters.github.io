@@ -9,6 +9,10 @@ labels:
   - Python
   - Scikit-learn
   - Machine Learning
+  - Classification
+  - Probabilities
+  - Predictions
+  - Competition
 summary: My first attempt at the FiveThirtyEight NFL forecasting game with publicly available data.
 ---
 

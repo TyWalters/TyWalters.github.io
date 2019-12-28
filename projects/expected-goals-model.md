@@ -9,6 +9,8 @@ labels:
   - Python
   - Scikit-learn
   - Machine Learning
+  - Probabilities
+  - Prediction
   - Tableau
 summary: Assigning a probability to every shot using spatiotemporal data scraped from Squawka's Opta feeds. 
 ---

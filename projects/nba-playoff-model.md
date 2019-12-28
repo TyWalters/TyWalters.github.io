@@ -1,14 +1,17 @@
 ---
 layout: project
 type: project
-title: NFL Prediction Model
+image: images/nba_playoffs_logo.jpg
+title: NBA Playoff Model
 permalink: projects/nba-playoff-model
 date: 2018-02-24
 labels:
   - Python
   - Scikit-learn
   - Machine Learning
-summary: 
+  - Prediction
+  - Tableau
+summary: Probability each NBA team will make the playoffs built on data from 1998-2017 for the 2018 season.
 ---
 
 ### Introduction to Playoff Prediction ###

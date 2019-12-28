@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: images/xgscatter.png
 title: Expected Goals Model
 permalink: projects/expected-goals-model
 date: 2017-12-10
@@ -18,7 +19,8 @@ The idea behind an xG model is to assign a probability to every shot. In terms o
 ### My Model ###
 * The period the shot was taken during the game to factor in the game flow and game state. In other words, this is an attempt at adjusting for the defensive pressure or the urgency for one team to score at the end of the game.
 
-<img style="float: left; padding-right: 15px; padding-bottom: 15px;" src="../images/xgscatter.png">
+<img style="float: left; padding-right: 25px; padding-bottom: 15px;" src="../images/xgscatter.png">
+
 * The x and y location on the field of where the shot was taken. This is a key for all xG models, but I’m considering adjusting this or creating a new feature that factors in the angle of the shot.
 
 * The location of where the shot crossed the end line also called the goal mouth location. This can either be a goal, saved by the goalie, hit the post of the goal or just a complete miss. This helps the model adjust for the quality of the shot taken, for example a shot that goes towards either corner of the goal has a better chance than a shot in the middle directly at the goalie. 

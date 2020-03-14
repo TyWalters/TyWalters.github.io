@@ -115,12 +115,21 @@
     }
   ],
   "work": [
+   {
+      "company": "Phoenix Suns",
+      "position": "Data Scientist",
+      "website": "",
+      "startDate": "2020-03-01",
+      "endDate": "Present",
+      "summary": "Promoted to full-time Data Scientist role in March",
+      "highlights": [
+        ]
+    },
     {
       "company": "Phoenix Suns",
       "position": "Business Intelligence Intern",
       "website": "",
       "startDate": "2019-10-01",
-      "endDate": "Present",
       "summary": "Seasonal intern with the business intelligence department for the 2019-20 season",
       "highlights": [
         "Automated ETL process from the new Phoenix Suns Mobile Wallet (via Braintree API) into the data warehouse for reporting",

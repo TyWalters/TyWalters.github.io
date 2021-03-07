@@ -8,8 +8,8 @@
     "summary": "I graduated from Arizona State University in December of 2019 with a degree in Business Data Analytics. Currently, I am a Data Scientist with the Phoenix Suns.",
     "location": {
       "address": "",
-      "postalCode": "85281",
-      "city": "Tempe",
+      "postalCode": "85003",
+      "city": "Phoenix",
       "countryCode": "USA",
       "region": "Arizona"
     },
@@ -132,10 +132,6 @@
       "startDate": "2019-10-01",
       "summary": "Seasonal intern with the business intelligence department for the 2019-20 season",
       "highlights": [
-        "Automated ETL process from the new Phoenix Suns Mobile Wallet (via Braintree API) into the data warehouse for reporting",
-        "Evaluate the Suns resell market and ensure ticket holders were complying with their policies on reselling tickets through Stubhub API",
-        "Applied SQL to transform and manipulate data then create dashboards in Spotfire",
-        "Optimized regression models for total attendance and merchandise budgeting to prep for the season"
       ]
     },
     {
@@ -145,10 +141,6 @@
       "endDate": "2019-08-10",
       "summary": "Summer internship with the analytics department during the 2019 season",
       "highlights": [
-        "Automated process of retrieving post-match survey responses as a new data source containing 500k+ records through SurveyMonkey API",
-        "Prospect identification in database with over 70k fans using SAS Enterprise Guide",
-        "Designed executive level reports on potential jersey sponsors that met predetermined criteria",
-        "Developed detailed research reports for corporate partnership team on potential sponsors"
       ]
     },
     {
@@ -158,8 +150,6 @@
       "endDate": "2018-09-01",
       "summary": "Applied research project commissioned by a Major English Premier League Club",
       "highlights": [
-        "Coded in-game events and behaviors for over 2,000 videos",
-        "1 of only 5 people out of 20 coders to be promoted from part time to a full-time position"
       ]
     }
   ],

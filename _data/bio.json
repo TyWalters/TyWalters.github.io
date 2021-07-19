@@ -98,6 +98,15 @@
   ],
   "education": [
     {
+      "institution": "Georgia Tech",
+      "area": "Analytics",
+      "studyType": "M.S.",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
       "institution": "Arizona State University",
       "area": "Business Data Analytics",
       "studyType": "B.S.",
